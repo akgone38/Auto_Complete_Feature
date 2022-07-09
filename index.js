@@ -10,7 +10,7 @@ let wordlist=[
     "yahoo"
 ];
 
-let root=new TrieNode();
+let root=new TrieNode(); //trie data structure
 
 
 //add worsds in trie node
